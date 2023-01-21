@@ -1,7 +1,8 @@
 Computer Engineering student.
 Fascinated with:
 - Math
-- Machine Learning
+- Machine Learning & Deep Learning
+- web3
 - Low level programming
 
 <!---
