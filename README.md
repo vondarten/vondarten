@@ -1,9 +1,6 @@
-Computer Engineering student.
-Fascinated with:
-- Math
-- Machine Learning & Deep Learning
-- web3
-- Low level programming
+AI Engineer @ Acertpix
+
+Working mostly with Deep Learning, Computer Vision and Natural Language Processing applied to Fraud Prevention, Document Analysis, Facial Recognition and Conversational AI Agents.
 
 <!---
 vondarten/vondarten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
